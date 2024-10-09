@@ -1,2 +1,2 @@
 # my_project
-my c++ projects are here and ready to run.
+my c++ projects are here‚ compiled and ready to run.
